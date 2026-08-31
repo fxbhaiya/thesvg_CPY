@@ -651,7 +651,8 @@
     ],
     "variants": {
       "default": "/icons/accenture/default.svg",
-      "mono": "/icons/accenture/mono.svg"
+      "mono": "/icons/accenture/mono.svg",
+      "wordmark": "/icons/accenture/wordmark.svg"
     },
     "license": "CC0-1.0",
     "url": "https://www.accenture.com",
